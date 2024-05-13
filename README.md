@@ -1,6 +1,8 @@
 ## Frontend Setup
 
-### Download the project zip file and unzip it
+### Download the [Project Code](https://drive.google.com/file/d/16bXwNVO224Hoxsx5iHje-Epq3O9MvnF2/view?usp=sharing) and unzip it or clone using the below command
+
+`git clone https://github.com/M-Umais-Hassan/news-agr-frontend.git`
 
 ### Run below command to start project
 
@@ -10,7 +12,9 @@
 
 ## Backend Setup
 
-### Download the project zip file and unzip it
+### Download the [Project Code](https://drive.google.com/file/d/1sL3MtC9Jox8sph1X_XC7AYpYLBJpelZo/view?usp=sharing) and unzip it or clone using the below command
+
+`git clone https://github.com/M-Umais-Hassan/news-agr-backend.git`
 
 ### Run below command to start project
 
