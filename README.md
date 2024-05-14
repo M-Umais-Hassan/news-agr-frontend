@@ -8,7 +8,7 @@
 
 `sudo docker-compose up --build`
 
-### Note: Backend was not required but there was cors error while using the newsapi directly in my react app which I thought can be fixed by using some proxy server, and just for that I have build my own server with just straight forward few routes that are using the newapi. I have deployed the backend on following [Link](https://puce-lucky-piglet.cyclic.app/newsapi) but in case you need to look into backend here are the steps to run backend
+### Note: Backend was not required but there was cors error while using the newsapi directly in my react app which I thought can be fixed by using some proxy server, and just for that I have build my own server with just straight forward few routes that are using the newapi. I have deployed the backend on following [Link](https://tired-gold-lovebird.cyclic.app/) but in case you need to look into backend here are the steps to run backend
 
 ## Backend Setup
 
